@@ -44,7 +44,7 @@ for i in range(1,11):
     print(" {} |".format(i),end="")
 
 
-# YUSUF EREN KAYA 190709054
+# YUSUF EREN KAYA
 
 
 
